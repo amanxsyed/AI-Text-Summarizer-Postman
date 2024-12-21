@@ -24,7 +24,7 @@
 6. [Contributing](#Contributing)
 7. [License](#License)
 8. [Contact](#Contact)
-9. [Links](#Links)
+9. [Linked-In](#Linked-In)
 
 ## ✨Features
 
