@@ -1,6 +1,6 @@
 <h1 align="center">AI-Text-Summarizer-Postman</h1>
 
-![AI-Text-Summarizer-App](https://giphy.com/gifs/xT9IgxJXKgMD96peHC)
+<!-- ![AI-Text-Summarizer-App](https://giphy.com/gifs/xT9IgxJXKgMD96peHC) -->
 
 <div align="center">
 
